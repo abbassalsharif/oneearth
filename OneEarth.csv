@@ -1,0 +1,233 @@
+Country,Size,GSN area (1000 ha),GSN target,Protection level (0-10),Color
+Sao Tome & Principe,Small,104,0.99,3,38651c
+Norfolk Island,Small,4,0.99,3,38651c
+Dominica,Small,80,0.99,2,38651c
+Guam,Small,57,0.99,2,38651c
+Palau,Small,48,0.99,2,38651c
+Antigua & Barbuda,Small,28,0.99,2,38651c
+Grenada,Small,35,0.99,1,38651c
+Barbados,Small,47,0.99,0,38651c
+Pitcairn Islands,Small,4,0.98,8,38651c
+Saint Lucia,Small,59,0.97,2,38651c
+Heard & McDonald Islands,Small,38,0.96,10,38651c
+Saint Vincent & the Grenadines,Small,36,0.96,2,38651c
+Suriname,Medium,13929,0.953453351,2,487325
+Guyana,Medium,19416,0.913221391,1,487325
+Equatorial Guinea,Medium,2443,0.909869646,2,487325
+Hong Kong S.A.R.,Small,93,0.89,4,537b28
+Cayman Islands,Small,27,0.88,1,537b28
+Federated States of Micronesia,Small,56,0.88,0,537b28
+Solomon Islands,Medium,2387,0.872122762,0,537b28
+Comoros,Small,203,0.87,1,537b28
+French Polynesia,Small,294,0.87,0,537b28
+Gabon,Large,22529,0.860805441,3,537b28
+Brunei,Small,486,0.84,5,5f842b
+Saint Helena,Small,31,0.84,4,5f842b
+Republic of Congo,Large,29046,0.836578341,5,5f842b
+Papua New Guinea,Large,38550,0.823348497,0,5f842b
+New Caledonia,Medium,1559,0.82,7,5f842b
+Canada,Large,807285,0.814079306,1,5f842b
+Jamaica,Medium,891,0.8,2,6b8c2e
+Vanuatu,Medium,963,0.78,1,6b8c2e
+Australia,Large,586207,0.759022838,3,6b8c2e
+Bhutan,Medium,3066,0.756663376,6,6b8c2e
+Slovenia,Medium,1520,0.748031496,7,779431
+British Indian Ocean Territory,Small,4,0.74,10,779431
+Trinidad & Tobago,Small,376,0.73,4,779431
+Ecuador,Large,18550,0.722548981,3,779431
+Russia,Large,1210378,0.716331822,1,779431
+Iceland,Medium,7282,0.714271702,3,779431
+Puerto Rico,Small,644,0.71,1,779431
+Costa Rica,Medium,3649,0.708956674,4,779431
+Botswana,Large,41014,0.704925922,4,829d34
+Venezuela,Large,64486,0.701987764,8,829d34
+Colombia,Large,79606,0.696678773,2,829d34
+U.S. Virgin Islands,Small,25,0.69,2,829d34
+Panama,Medium,5126,0.68337555,3,829d34
+Fiji,Medium,1302,0.68,1,829d34
+Malaysia,Large,22360,0.67743206,3,829d34
+Belize,Medium,1505,0.67,6,829d34
+Indonesia,Large,124430,0.65753526,2,829d34
+Bolivia,Large,71122,0.650764022,5,8fa538
+Mongolia,Large,100833,0.644695788,3,8fa538
+Seychelles,Small,27,0.64,5,8fa538
+Peru,Large,82214,0.633375192,3,8fa538
+Namibia,Large,52242,0.631957129,6,8fa538
+Saint Kitts & Nevis,Small,17,0.63,1,8fa538
+Laos,Medium,13768,0.600331386,3,9bae3b
+Luxembourg,Small,155,0.593869732,7,9bae3b
+Taiwan,Medium,2149,0.591034103,3,9bae3b
+Sri Lanka,Medium,3884,0.582134293,5,9bae3b
+Japan,Large,21383,0.571478205,5,9bae3b
+Croatia,Medium,3111,0.564814815,7,9bae3b
+Austria,Medium,4728,0.563259471,5,9bae3b
+Paraguay,Large,22560,0.561529271,3,9bae3b
+Guatemala,Medium,6143,0.561312135,4,9bae3b
+The Bahamas,Medium,710,0.56,7,9bae3b
+Samoa,Small,156,0.56,1,9bae3b
+Slovakia,Medium,2646,0.546468401,7,a7b63e
+U.S. Minor Outlying Islands,Small,1,0.54,10,a7b63e
+Gibraltar,Small,<1,0.54,10,a7b63e
+Andorra,Small,25,0.54,6,a7b63e
+Northern Mariana Islands,Small,32,0.54,1,a7b63e
+British Virgin Islands,Small,8,0.54,1,a7b63e
+Niger,Large,63802,0.537139778,3,a7b63e
+Philippines,Large,15780,0.534842733,3,a7b63e
+Nicaragua,Medium,6874,0.530933807,7,a7b63e
+Singapore,Small,37,0.53,1,a7b63e
+Oman,Large,16393,0.524089645,0,a7b63e
+Saudi Arabia,Large,100374,0.519986324,1,a7b63e
+Kazakhstan,Large,138905,0.512109158,1,a7b63e
+Cook Islands,Small,10,0.51,4,a7b63e
+Sweden,Large,22538,0.507053027,3,a7b63e
+Brazil,Large,430585,0.505144298,6,a7b63e
+New Zealand,Large,13523,0.504664875,7,b4be41
+Bulgaria,Medium,5690,0.504343202,8,b4be41
+Germany,Large,17834,0.499300073,7,b4be41
+Democratic Republic of the Congo,Large,115854,0.494965074,3,b4be41
+Estonia,Medium,2182,0.477670753,4,b4be41
+Poland,Large,14733,0.470823214,8,b4be41
+Montserrat,Small,4,0.47,2,b4be41
+Dominican Republic,Medium,2273,0.466735113,6,b4be41
+Norway,Large,17638,0.463682011,3,b4be41
+Georgia,Medium,3202,0.459925309,2,b4be41
+France,Large,29229,0.458738778,6,b4be41
+Honduras,Medium,5169,0.457757705,5,b4be41
+Myanmar,Large,30214,0.453357341,1,c0c745
+Cameroon,Large,21067,0.450746716,2,c0c745
+Haiti,Medium,1222,0.44036036,0,c0c745
+Zambia,Large,33196,0.43885672,9,c0c745
+Latvia,Medium,2820,0.437888199,4,c0c745
+Bosnia & Herzegovina,Medium,2253,0.434606481,1,c0c745
+Kyrgyzstan,Medium,8539,0.428750753,1,c0c745
+Libya,Large,69742,0.427820411,0,c0c745
+Morocco,Large,25200,0.424413905,5,c0c745
+Finland,Large,13989,0.421761939,4,c0c745
+Liechtenstein,Small,1.708,0.42,2,c0c745
+Argentina,Large,116884,0.41882498,2,c0c745
+Liberia,Medium,4641,0.416719045,1,c0c745
+United Republic of Tanzania,Large,38648,0.407821288,9,c0c745
+Romania,Medium,9618,0.4069733,6,c0c745
+Uruguay,Medium,7196,0.404633378,1,cccf48
+Nepal,Medium,5960,0.403657298,6,cccf48
+Cambodia,Medium,7302,0.40085639,6,cccf48
+Chile,Large,29927,0.4,4,cccf48
+Aruba,Small,7,0.4,5,cccf48
+Algeria,Large,92632,0.39971003,2,cccf48
+Uzbekistan,Large,17509,0.390668928,1,cccf48
+East Timor,Medium,586,0.39,3,cccf48
+Montenegro,Medium,534,0.39,2,cccf48
+Tajikistan,Medium,5523,0.387714988,6,cccf48
+Czech Republic,Medium,3022,0.384136265,6,cccf48
+Western Sahara,Medium,3479,0.382728273,0,cccf48
+Mauritania,Large,39749,0.381585516,0,cccf48
+China,Large,352061,0.374782169,4,cccf48
+Mexico,Large,73225,0.372335557,4,cccf48
+Cuba,Medium,4098,0.370960442,4,cccf48
+Guinea,Medium,8997,0.365969736,10,cccf48
+Belgium,Medium,1119,0.36532811,7,cccf48
+Switzerland,Medium,1509,0.364316755,3,cccf48
+Yemen,Large,16466,0.361358,0,cccf48
+Eritrea,Medium,4333,0.351561866,1,e4da4b
+Anguilla,Small,3,0.35,2,e4da4b
+Greece,Medium,4602,0.349855557,10,e4da4b
+Indian Ocean Territories,Small,4,0.34,1,e4da4b
+Vietnam,Large,11171,0.337767968,2,e4da4b
+Egypt,Large,33787,0.336142229,4,e4da4b
+Chad,Large,42756,0.335717707,6,e4da4b
+Armenia,Medium,983,0.331870358,7,e4da4b
+Lithuania,Medium,2145,0.33106961,5,e4da4b
+Mauritius,Small,68,0.33,1,e4da4b
+Belarus,Medium,6820,0.329309512,3,e4da4b
+United Kingdom,Medium,7926,0.325797435,9,e4da4b
+Spain,Large,16475,0.324656131,9,e4da4b
+Hungary,Medium,2898,0.311077716,7,e4da4b
+Kosovo,Medium,338,0.31,0,e4da4b
+South Korea,Medium,3032,0.30706907,6,e4da4b
+Republic of Serbia,Medium,2372,0.305709499,3,e4da4b
+Turkmenistan,Large,14246,0.3021421,1,fbdf4b
+Saint Martin,Small,2,0.3,5,fbdf4b
+Macedonia,Medium,754,0.296733569,3,fbdf4b
+Thailand,Large,15048,0.290821947,6,fbdf4b
+Tunisia,Medium,4517,0.287688682,3,fbdf4b
+Italy,Large,8532,0.283116538,8,fbdf4b
+Benin,Medium,3284,0.281044074,10,fbdf4b
+Togo,Medium,1594,0.278525249,10,fbdf4b
+Zimbabwe,Large,10789,0.275651507,10,fbdf4b
+Central African Republic,Large,17084,0.274649133,7,fbdf4b
+Israel & Palestine,Medium,712,0.251857092,8,fbdf4b
+Monaco,Small,1,0.27,10,fbdf4b
+Northern Cyprus,Small,90,0.27,0,fbdf4b
+Angola,Large,33799,0.269908324,3,fbdf4b
+Iraq,Large,11796,0.268971178,1,fbdf4b
+Netherlands,Medium,984,0.263524371,8,fbdf4b
+Senegal,Medium,5178,0.26233661,10,fbdf4b
+Turks and Caicos Islands,Small,12,0.26,7,fbdf4b
+Tonga,Small,16,0.26,3,fbdf4b
+Turkey,Large,19726,0.252518658,0,ebb33e
+Ethiopia,Large,28617,0.252221047,7,ebb33e
+Mozambique,Large,19979,0.252008729,8,ebb33e
+Djibouti,Medium,555,0.25,0,ebb33e
+Portugal,Medium,2205,0.240957272,9,ebb33e
+Cote d'Ivoire,Large,7716,0.239063081,10,ebb33e
+Madagascar,Large,13996,0.234800698,2,ebb33e
+Azerbaijan,Medium,2001,0.231731326,4,ebb33e
+Guinea Bissau,Medium,762,0.230699364,7,ebb33e
+Malta,Small,7.5,0.227272727,10,ebb33e
+Malawi,Medium,2591,0.215700966,10,ebb33e
+South Sudan,Large,13361,0.211763401,8,ebb33e
+Mali,Large,26459,0.210053746,4,ebb33e
+Lebanon,Medium,209,0.21,1,ebb33e
+South Africa,Large,25582,0.208972537,4,ebb33e
+El Salvador,Medium,420,0.2,4,dc8a32
+Aland,Small,19,0.2,0,dc8a32
+Sint Maarten,Small,<1,0.2,0,dc8a32
+Republic of Cyprus,Small,183,0.197837838,9,dc8a32
+Afghanistan,Large,12361,0.191991675,0,dc8a32
+Somaliland,Medium,3140,0.186383332,0,dc8a32
+United Arab Emirates,Medium,1324,0.185408206,10,dc8a32
+Denmark,Medium,786,0.184550364,8,dc8a32
+Albania,Medium,517,0.182299013,9,dc8a32
+Uganda,Medium,4409,0.181082635,9,dc8a32
+Jordan,Medium,1589,0.178258919,1,dc8a32
+Iran,Large,28656,0.176114853,5,dc8a32
+Niue,Small,4,0.17,10,dc8a32
+Saint Barthelemy,Small,<1,0.17,10,dc8a32
+Rwanda,Medium,429,0.168367347,6,dc8a32
+Ireland,Medium,1144,0.165031737,8,dc8a32
+Kenya,Large,9608,0.162946883,8,dc8a32
+Kuwait,Medium,283,0.16,10,dc8a32
+Qatar,Medium,175,0.16,7,dc8a32
+Pakistan,Large,13538,0.154562788,7,cf6227
+Ghana,Medium,3692,0.153698847,10,cf6227
+Burkina Faso,Large,4214,0.153549045,10,cf6227
+Nigeria,Large,13337,0.146037273,10,cf6227
+Sierra Leone,Medium,1026,0.142361593,7,cf6227
+Ukraine,Large,8229,0.137482249,3,cf6227
+Sudan,Large,25008,0.133861471,2,cf6227
+North Korea,Medium,1519,0.123979758,2,cf6227
+India,Large,39100,0.123495783,5,cf6227
+Curaao,Small,6,0.12,10,cf6227
+American Samoa,Small,2,0.12,10,cf6227
+Cape Verde,Small,48,0.12,2,cf6227
+Somalia,Large,5640,0.118754343,0,cf6227
+Syria,Medium,2196,0.117830123,1,cf6227
+Isle of Man,Small,7,0.11,3,cf6227
+Jersey,Small,1,0.1,7,c33d1f
+Macao S.A.R,Small,<1,0.1,0,c33d1f
+Moldova,Medium,326,0.098222356,4,c33d1f
+Bangladesh,Medium,1328,0.096567772,5,c33d1f
+Burundi,Medium,235,0.086333578,8,c33d1f
+Bermuda,Small,<1,0.08,8,c33d1f
+Swaziland,Medium,116,0.07,6,c33d1f
+Gambia,Medium,69,0.07,6,c33d1f
+Kiribati,Small,5,0.05,8,b8261b
+Lesotho,Medium,118,0.039059914,1,b8261b
+Bahrain,Small,2,0.03,7,b8261b
+Marshall Islands,Small,<1,0.02,10,b8261b
+Saint Pierre & Miquelon,Small,<1,0.02,10,b8261b
+Faroe Islands,Small,2,0.02,0,b8261b
+Islas Malvinas,Medium,7,0.01,3,b8261b
+Maldives,Small,<1,0.01,10,b8261b
+Tuvalu,Small,<1,0,NA,b8261b
+Wallis & Futuna,Small,<1,0,NA,b8261b
